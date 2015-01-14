@@ -1,3 +1,7 @@
 # cordova
 platforms/android/*
 plugins/*/*
+
+#OS
+.DS_Store
+Thumbs_db
